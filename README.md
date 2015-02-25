@@ -4,7 +4,7 @@ Some stupid and funny HTML/CSS based mini intro-ish stuffs...
 
 ## html-giant-scroller
 
-![Browser Intro](https://raw.githubusercontent.com/vigo/7d4-releases/master/screens/html-giant-scroller.png)
+![Browser Intro](https://raw.githubusercontent.com/bronxwhq/7d4-releases/master/screens/html-giant-scroller.png)
 
 If you look at the original `nfo`, you’ll see:
 
