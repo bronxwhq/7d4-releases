@@ -1,6 +1,6 @@
 # 7D4 Demoscene Party Releases
 
-Some stupid and funny HTML/CSS based mini intro-ish stuffs...
+Some stupid and funny HTML/CSS based mini intro-ish stuffs from 2004...
 
 ## html-giant-scroller
 
