@@ -18,3 +18,15 @@ Tested on Mac (OS X 10.10.2)
 - Chrome 40.0.2214.115
 - FireFox 36.0
 
+
+## html-24bit-plasma
+
+![Browser Intro](https://raw.githubusercontent.com/bronxwhq/7d4-releases/master/screens/html-24bit-plasma.png)
+
+Tested on Mac (OS X 10.10.2)
+
+- Safari 8.0.3
+- Chrome 40.0.2214.115
+- FireFox 36.0
+
+
