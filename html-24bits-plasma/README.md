@@ -39,9 +39,9 @@
        |                                  .                                    |   
        |             .                    .                      .             |   
        |                                                                       |   
-       !            HTML.24.BIT.PLAZMA.7D4.DEMO.PARTY.III-BRONX                !   
+       !             HTML.24.BITS.PLAZMA.7D4.DEMO.PARTY.III-BRONX              !   
        :                                                                       :   
-       .           ::: 7D4 DEMO PaRTY III - hTML COMPO ENTRY :::               .   
+       .             ::: 7D4 DEMO PaRTY III - hTML COMPO ENTRY :::             .   
        |                                                                       |   
        |  cREDiTZ                                                              |   
        |  cODE         : viGO | vigo@bronxwhq.org                              |   
